@@ -110,6 +110,6 @@ This challenge is part of the Android Developer Nanodegree of GoogleUdacityIndia
 
 A simple Music Player interface
 
-![abhishekchd](https://ibb.co/iGTHMK)
+![screenshot](https://user-images.githubusercontent.com/20670618/43482604-c9d9b01a-9526-11e8-86be-5f7920785d8c.png)
  
 ---
