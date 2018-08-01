@@ -23,7 +23,7 @@ In this I've made a Musical Structure app mock-up.
 
 ---
 
-## The Mock-Up Challenge by [Vibhav Khulbe](https://github.com/Kvaibhav01/Material-Memories-app)
+## The Mock-Up Challenge by [Vaibhav Khulbe](https://github.com/Kvaibhav01/Material-Memories-app)
 App designed for Google-Udacity Scholarship's Mock-up Challenge mocked-up entirely on Adobe XD. 
 
 ### Demo
